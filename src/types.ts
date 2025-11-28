@@ -10,3 +10,4 @@ export interface Muscle {
 }
 
 export type QuizMode = '4choice' | 'reverse' | 'combination';
+export type QuestionType = 'innervation' | 'origin' | 'insertion' | 'nameEn';
